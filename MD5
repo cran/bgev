@@ -1,0 +1,10 @@
+b6c7383e6b98783101bf13dc814ae1b1 *DESCRIPTION
+c5e431fadc4ddd069ef13bf06df9c73e *NAMESPACE
+193ee4f62d1e366faf35b339cdbd13de *R/bgev_functions.R
+3c579525bd3127437bf28cf95992f75e *R/dist_check.R
+aec99535f7c94a4dd7e1485d1f4ad1f2 *build/partial.rdb
+dc2133105cd67c84d618296ef2c51d38 *man/bgev-package.Rd
+d5eb03de50d5a30deaf21fb5c8b5769a *man/bgev.mle.Rd
+facb6e4067cf280613ed6aa6aef2a950 *man/bgev.support.Rd
+66182ff0990150155ff54b9ec2e40503 *man/distCheck.Rd
+f67c2e68ebe69637bc2b5e7aab3c7b3a *man/likbgev.Rd
